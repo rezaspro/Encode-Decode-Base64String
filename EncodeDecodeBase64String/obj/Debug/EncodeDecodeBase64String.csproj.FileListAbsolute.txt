@@ -1,0 +1,7 @@
+E:\SourceCode\Encode-Decode-Base64String\EncodeDecodeBase64String\EncodeDecodeBase64String\bin\Debug\EncodeDecodeBase64String.exe.config
+E:\SourceCode\Encode-Decode-Base64String\EncodeDecodeBase64String\EncodeDecodeBase64String\bin\Debug\EncodeDecodeBase64String.exe
+E:\SourceCode\Encode-Decode-Base64String\EncodeDecodeBase64String\EncodeDecodeBase64String\bin\Debug\EncodeDecodeBase64String.pdb
+E:\SourceCode\Encode-Decode-Base64String\EncodeDecodeBase64String\EncodeDecodeBase64String\obj\Debug\EncodeDecodeBase64String.csprojAssemblyReference.cache
+E:\SourceCode\Encode-Decode-Base64String\EncodeDecodeBase64String\EncodeDecodeBase64String\obj\Debug\EncodeDecodeBase64String.csproj.CoreCompileInputs.cache
+E:\SourceCode\Encode-Decode-Base64String\EncodeDecodeBase64String\EncodeDecodeBase64String\obj\Debug\EncodeDecodeBase64String.exe
+E:\SourceCode\Encode-Decode-Base64String\EncodeDecodeBase64String\EncodeDecodeBase64String\obj\Debug\EncodeDecodeBase64String.pdb
